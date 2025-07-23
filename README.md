@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Shivam Chadha👋
+
+🎓 CSE Undergrad @ JIIT Noida/ Thapar University 
+💻 Learning C, DSA & Web Dev  
+🎯 Aspiring SWE Intern @ Google
+
+🔗 Connect with me:
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [LeetCode](https://leetcode.com/yourusername)
+- [GitHub](https://github.com/yourusername)
+
+📌 Projects, code & progress → Stay tuned 🚀
+
 
 <!--
 **Shivam-Chadha7/Shivam-Chadha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
