@@ -7,7 +7,7 @@
 🔗 Connect with me:
 - [LinkedIn](https://linkedin.com/in/yourusername)
 - [LeetCode](https://leetcode.com/yourusername)
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/Shivam-Chadha7)
 
 📌 Projects, code & progress → Stay tuned 🚀
 
