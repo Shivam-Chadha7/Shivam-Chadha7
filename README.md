@@ -5,7 +5,7 @@
 🎯 Aspiring SWE Intern @ Google
 
 🔗 Connect with me:
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [LinkedIn](https://linkedin.com/in/Shivam-Chadha7)
 - [LeetCode](https://leetcode.com/Shivam-Chadha7)
 - [GitHub](https://github.com/Shivam-Chadha7)
 
