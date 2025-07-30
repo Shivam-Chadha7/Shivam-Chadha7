@@ -1,6 +1,6 @@
 # Hi there, I'm Shivam Chadha👋
 
-🎓 CSE Undergrad @ JIIT Noida/ Thapar University 
+🎓 M&C Undergrad @ JIIT Noida 
 💻 Learning C, DSA & Web Dev  
 🎯 Aspiring SWE Intern @ Google
 
